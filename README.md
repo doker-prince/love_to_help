@@ -26,8 +26,8 @@ npm run dev:user
 start-user.bat
 ```
 
-- **访问地址**: http://localhost:3000
-- **登录页面**: http://localhost:3000/login
+- **访问地址**: http://localhost:3001
+- **登录页面**: http://localhost:3001/login
 - **适用角色**: 普通用户、慈善机构
 
 ### 同时启动两个服务
